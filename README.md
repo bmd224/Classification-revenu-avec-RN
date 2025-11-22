@@ -1,7 +1,7 @@
 # Classification de Revenus avec Réseaux de Neurones (MLP)
 On prédit le revenu de clients à partir d’un dataset démographique et transactionnel.  
 Deux modèles sont comparés : **classification binaire** et **classification multi-classes**.
----
+
 ## Objectifs
 - Prétraiter les données (imputation, outliers, encodage, standardisation)  
 - Entraîner des réseaux de neurones (MLP)  
