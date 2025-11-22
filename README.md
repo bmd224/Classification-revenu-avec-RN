@@ -1,6 +1,5 @@
 # Classification de Revenus avec Réseaux de Neurones (MLP)
-
-Projet visant à prédire le revenu de clients à partir d’un dataset démographique et transactionnel.  
+On prédit le revenu de clients à partir d’un dataset démographique et transactionnel.  
 Deux modèles sont comparés : **classification binaire** et **classification multi-classes**.
 ---
 ## Objectifs
